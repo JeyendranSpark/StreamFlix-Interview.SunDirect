@@ -21,3 +21,11 @@ An Android application demonstrating a multi-type carousel UI and video playback
 2. Open in Android Studio Iguana or later.
 3. Sync Gradle.
 4. Run on Emulator/Device (Internet connection required for video streaming).
+
+## APP Screen Shots
+
+<img width="1080" height="2400" alt="Screenshot_20251211_192819" src="https://github.com/user-attachments/assets/98431080-ebd7-4268-a03b-237dc3365e66" />
+
+<img width="1080" height="2400" alt="Screenshot_20251211_193033" src="https://github.com/user-attachments/assets/3b3c6a3e-3519-4ca1-a696-caeed73d247e" />
+
+
