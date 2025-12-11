@@ -24,8 +24,8 @@ An Android application demonstrating a multi-type carousel UI and video playback
 
 ## APP Screen Shots
 
-<img width="1080" height="2400" alt="Screenshot_20251211_192819" src="https://github.com/user-attachments/assets/98431080-ebd7-4268-a03b-237dc3365e66" />
+<img width="100" height="200" alt="Screenshot_20251211_192819" src="https://github.com/user-attachments/assets/98431080-ebd7-4268-a03b-237dc3365e66" />
 
-<img width="1080" height="2400" alt="Screenshot_20251211_193033" src="https://github.com/user-attachments/assets/3b3c6a3e-3519-4ca1-a696-caeed73d247e" />
+<img width="100" height="2000" alt="Screenshot_20251211_193033" src="https://github.com/user-attachments/assets/3b3c6a3e-3519-4ca1-a696-caeed73d247e" />
 
 
